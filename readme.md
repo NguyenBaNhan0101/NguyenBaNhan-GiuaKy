@@ -5,7 +5,7 @@
 > MSSV: 2080600041
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Sinh viên năm 4, Chuyên ngành Công nghệ Phần mềm
 
 > [!TIP]
 > Helpful advice for doing things better or more easily.
