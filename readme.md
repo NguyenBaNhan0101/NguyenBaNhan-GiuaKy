@@ -1,8 +1,8 @@
 # CV CÁ NHÂN
 ## THÔNG TIN
 
-> Họ tên: Nguyễn Bá Nhân
-> MSSV: 2080600041
+> [Họ tên: Nguyễn Bá Nhân]
+> [MSSV: 2080600041]
 
 > [!NOTE]
 > Sinh viên năm 4, Chuyên ngành Công nghệ Phần mềm
