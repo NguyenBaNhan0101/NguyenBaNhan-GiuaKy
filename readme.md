@@ -2,7 +2,7 @@
 ## THÔNG TIN
 
 > [Họ tên: Mai Chi Vy]
-> [MSSV: 2080600041]
+> [MSSV: 2011063573]
 
 > [!NOTE]
 > Sinh viên năm 4, Chuyên ngành Công nghệ Phần mềm
