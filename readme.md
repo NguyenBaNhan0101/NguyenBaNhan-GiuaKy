@@ -5,7 +5,7 @@
 > [MSSV: 2011063573]
 
 > [!NOTE]
-> Sinh viên năm 4, Chuyên ngành Công nghệ Phần mềm
+> Sinh viên năm 3, Chuyên ngành Công nghệ Phần mềm
 
 > [!TIP]
 > Helpful advice for doing things better or more easily.
