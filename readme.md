@@ -1,7 +1,7 @@
 # CV CÁ NHÂN
 ## THÔNG TIN
 
-> [Họ tên: Nguyễn Bá Nhân]
+> [Họ tên: Mai Chi Vy]
 > [MSSV: 2080600041]
 
 > [!NOTE]
